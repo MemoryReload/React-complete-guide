@@ -1,4 +1,4 @@
-import ExpneseList from './components/ExpenseList';
+import ExpneseList from './components/Expense/ExpenseList';
 import './App.css';
 
 function App() {

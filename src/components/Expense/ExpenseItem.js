@@ -1,7 +1,7 @@
 import React from "react";
 import ExpenseDate from "./ExpenseDate";
 import "./ExpenseItem.css"
-import Card from "./Card";
+import Card from "../Common/Card";
 
 export default function ExpenseItem({ date, amount, desc }) {
     return (
